@@ -1,5 +1,5 @@
 ### This project is deoployed at
-[Github User] (https://prateek-react-github-user.netlify.app/login)
+[Github User](https://prateek-react-github-user.netlify.app/login)
 
 
 ## Styled Components
